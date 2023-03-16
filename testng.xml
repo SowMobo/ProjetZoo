@@ -3,6 +3,8 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/ib/IdeaProjects/ProjetZoo">
         <classes>
+            <class name="TestAnimal"></class>
+            <class name="TestEspece"></class>
             <class name="TestZoo"></class>
         </classes>
     </test>
